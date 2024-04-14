@@ -666,7 +666,7 @@
     "editorOverviewRuler.background": "#e7e9e800",
     "editorOverviewRuler.border": "#7279764d",
     "editorError.foreground": "#d7482b",
-    "editorError.background": "#e88681f00",
+    "editorError.background": "#e8868100",
     "editorError.border": "#0a0b0a00",
     "editorWarning.foreground": "#fff110",
     "editorWarning.background": "#a9904000",
