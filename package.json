@@ -1,10 +1,21 @@
 {
-  "name": "timsexperiments-theme",
+  "name": "@timsexperiments/theme",
   "displayName": "@timsexperiments/theme",
   "description": "Editor theme to match the Tim's Experiments color palette",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timsexperiments/timsexperiments-theme.git"
+  },
+  "bugs": "https://github.com/timsexperiments/timsexperiments-theme/issues",
+  "keywords": [
+    "textmate"
+  ],
+  "exports": {
+    "./*": "./themes/*"
   },
   "categories": [
     "Themes"

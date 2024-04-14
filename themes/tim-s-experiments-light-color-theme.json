@@ -1,6 +1,6 @@
 {
   "name": "Tim's Experiments Dark",
-  "type": "dark",
+  "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
