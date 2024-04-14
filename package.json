@@ -2,7 +2,7 @@
   "name": "@timsexperiments/theme",
   "displayName": "@timsexperiments/theme",
   "description": "Editor theme to match the Tim's Experiments color palette",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "engines": {
     "vscode": "^1.88.0"
   },
