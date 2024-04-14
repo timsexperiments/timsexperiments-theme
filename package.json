@@ -1,0 +1,26 @@
+{
+  "name": "timsexperiments-theme",
+  "displayName": "@timsexperiments/theme",
+  "description": "Editor theme to match the Tim's Experiments color palette",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tim's Experiments Light",
+        "uiTheme": "vs",
+        "path": "./themes/tim-s-experiments-light-color-theme.json"
+      },
+      {
+        "label": "Tim's Experiments Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tim-s-experiments-dark-color-theme.json"
+      }
+    ]
+  }
+}
